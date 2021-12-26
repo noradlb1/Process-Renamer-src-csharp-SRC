@@ -1,0 +1,8 @@
+C:\Users\Rizie\source\repos\RzyRenamer\RzyRenamer\bin\Debug\RzyRenamer.exe
+C:\Users\Rizie\source\repos\RzyRenamer\RzyRenamer\bin\Debug\RzyRenamer.pdb
+C:\Users\Rizie\source\repos\RzyRenamer\RzyRenamer\bin\Debug\Colorful.Console.dll
+C:\Users\Rizie\source\repos\RzyRenamer\RzyRenamer\obj\Debug\RzyRenamer.csprojAssemblyReference.cache
+C:\Users\Rizie\source\repos\RzyRenamer\RzyRenamer\obj\Debug\RzyRenamer.csproj.CoreCompileInputs.cache
+C:\Users\Rizie\source\repos\RzyRenamer\RzyRenamer\obj\Debug\RzyRenamer.csproj.CopyComplete
+C:\Users\Rizie\source\repos\RzyRenamer\RzyRenamer\obj\Debug\RzyRenamer.exe
+C:\Users\Rizie\source\repos\RzyRenamer\RzyRenamer\obj\Debug\RzyRenamer.pdb
